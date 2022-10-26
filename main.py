@@ -7,6 +7,5 @@ print("minha idade é "+str(idade)+" anos")
 nome = input("Qual é o seu nome? ")
 input(f"Boa noite, {nome}")
 idade = int(input("Quantos anos você tem? "))
-input(f"Você tem {idade} anos")
 dobro = idade * 2
 print("O dobro da sua idade é {}".format(dobro))
