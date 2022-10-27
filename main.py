@@ -13,4 +13,5 @@ else:
   print("Vai dormi!!")
 sexo = input( "informe o seu sexo M=Masculino, F=Feminino: " )
 if idade >= 18 and sexo == "M":
-  print("presta/prestou serviço militar obrigatório? ")
+  reservista (imput("e precisou se alistar para serviço militar obrigatório))
+  
